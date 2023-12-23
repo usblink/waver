@@ -2,8 +2,8 @@
 // Receiver 
 //
 // waver 3.0
-// Created 1 July 2014
-// By Jaewoo Kim, support@usblink.com
+// Created 1 July 2024
+// By support@usblink.com
 // www.usblink.com
 //
 //

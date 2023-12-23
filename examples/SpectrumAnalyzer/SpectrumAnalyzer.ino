@@ -19,9 +19,9 @@ note that the valid channels for the PLL are from 11 to 26
 // Spectrum Analyzer
 //
 // waver 3.0
-// Created 1 July 2014
-// By Jaewoo Kim, jwkim9704@gmail.com
-// www.max0.com
+// Created 1 July 2024
+// By support@usblink.com
+// www.usblink.com
 //
 //
 //    Pin.NO   NAME     PORT            Etc           

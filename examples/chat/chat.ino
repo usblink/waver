@@ -1,10 +1,10 @@
 //
 // chat 
-// waver 3.0
-// Created 1 July 2014
-// By Jaewoo Kim, jwkim9704@gmail.com
-// www.max0.com
 //
+// waver 3.0
+// Created 1 July 2024
+// By support@usblink.com
+// www.usblink.com
 //
 //    Pin.NO   NAME     PORT            Etc           
 //
